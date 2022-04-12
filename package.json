@@ -1,0 +1,23 @@
+{
+  "name": "test_jest",
+  "version": "1.0.0",
+  "description": "readme_jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamK-16/test_jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamK-16/test_jest/issues"
+  },
+  "homepage": "https://github.com/RamK-16/test_jest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
